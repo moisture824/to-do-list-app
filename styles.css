@@ -5,7 +5,7 @@ font: normal normal 13px/16px "Open Sans", sans-serif;
 background: #dfdfdf;
 }
 
-.container{
+.container {
 padding: 20px;
 width: 300px;
 margin: 0 auto;
@@ -17,11 +17,11 @@ form {
 display: inline-block;
 }
 
-input{
+input {
 padding: 4px 15px 4px 5px;
 }
 
-#button{
+#button {
 display: inline-block;
 background-color:#fc999b;
 color:#ffffff;
@@ -31,7 +31,7 @@ margin-top:2px;
 padding: 5px 15px;
 }
 
-#button:hover{
+#button:hover {
 cursor: pointer;
 opacity: .8;}
 
